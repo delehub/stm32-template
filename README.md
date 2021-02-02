@@ -3,6 +3,7 @@
 #### [STM32TemplateWiki](https://gitee.com/lemonhubchat/stm32-template/wikis/Home?sort_id=3507899)
 基于标准库开发的STM32F103ZET6工程模板(常见程序已移植) STM32F407工程模板(目前移植GPIO与LCD)
 
+[DemoGithubWiki](https://github.com/delehub/stm32-template/wiki)
 ### STM32F103ZET6
 1. 基本GPIO 板载LED驱动
 2. 2.8 ILI9341 LCD 1.8ST7735LCD
